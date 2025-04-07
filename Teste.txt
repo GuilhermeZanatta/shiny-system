@@ -1,3 +1,5 @@
 Teste de commit
 Não vai dar erro
 Implementando batata frita
+terceiro commit, junto com o Gabriel strini
+
